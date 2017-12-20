@@ -1,0 +1,87 @@
+{
+    "_total_number_of_objects": 49226, 
+    "desc": {
+        "nr_aparitii": 49226
+    }, 
+    "id": {
+        "nr_aparitii": 49226
+    }, 
+    "name": {
+        "nr_aparitii": 49226
+    }, 
+    "other": {
+        "IAO_0000231": {
+            "nr_aparitii": 2154
+        }, 
+        "IAO_0000589": {
+            "nr_aparitii": 1
+        }, 
+        "IAO_0100001": {
+            "nr_aparitii": 2671
+        }, 
+        "comment": {
+            "nr_aparitii": 5288
+        }, 
+        "consider": {
+            "nr_aparitii": 952
+        }, 
+        "created_by": {
+            "nr_aparitii": 17131
+        }, 
+        "creation_date": {
+            "nr_aparitii": 17167
+        }, 
+        "creator": {
+            "nr_aparitii": 1
+        }, 
+        "date": {
+            "nr_aparitii": 1
+        }, 
+        "deprecated": {
+            "nr_aparitii": 4270
+        }, 
+        "disjointWith": {
+            "nr_aparitii": 23
+        }, 
+        "hasAlternativeId": {
+            "nr_aparitii": 1599
+        }, 
+        "hasBroadSynonym": {
+            "nr_aparitii": 2036
+        }, 
+        "hasExactSynonym": {
+            "nr_aparitii": 27152
+        }, 
+        "hasNarrowSynonym": {
+            "nr_aparitii": 7482
+        }, 
+        "hasRelatedSynonym": {
+            "nr_aparitii": 6066
+        }, 
+        "namespace": {
+            "nr_aparitii": 47072
+        }, 
+        "nr_aparitii": 49226, 
+        "onProperty": {
+            "nr_aparitii": 18701
+        }, 
+        "someValuesFrom": {
+            "nr_aparitii": 18701
+        }, 
+        "subset": {
+            "nr_aparitii": 9523
+        }, 
+        "xref": {
+            "nr_aparitii": 9551
+        }
+    }, 
+    "relations": {
+        "can_be": {
+            "nr_aparitii": 17595
+        }, 
+        "is_a": {
+            "nr_aparitii": 44953
+        }, 
+        "nr_aparitii": 49226
+    }
+}
