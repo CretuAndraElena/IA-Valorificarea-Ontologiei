@@ -1,0 +1,36 @@
+{
+  "creier": [
+    "  encefal ", 
+    " creierul mic  cerebel'", 
+    " 'CREIER   butuc", 
+    " desteptaciune", 
+    " intelect", 
+    " inteligenta", 
+    " judecata", 
+    " minte", 
+    " pricepere", 
+    " ratiune", 
+    " spirit"
+  ], 
+  "epifiza": [], 
+  "sange": [
+    " rasa  ", 
+    " familie", 
+    " neam  ", 
+    " viata  ", 
+    " jertfa", 
+    " sacrificiu  ", 
+    "  musucel", 
+    " putoi'", 
+    " 'SANGE MOHORAT   antrax", 
+    " carbune", 
+    " dalac", 
+    " pustula maligna'", 
+    " 'SANGE RECE   calm", 
+    " cumpat", 
+    " fire", 
+    " stapanire'", 
+    " 'SANGELE-VOINICULUI   oresnita'", 
+    " 'SCUIPARE DE SANGE   hemoptizie"
+  ]
+}
