@@ -1,0 +1,133 @@
+fisier1_subiecte.txt:
+[
+    {
+        "id": 12,
+        "nume": "Cutia craniana",
+        "noduri_legate": [13],
+        "arc_nod": ["contine"],
+        "domeniu": "Cap",
+        "sinonime": ["Craniu"]
+		"e_concept": True
+		"definitie": "Este o structura osoasa care contine si protejeaza encefalul"
+    },
+    {
+        "id": 13,
+        "nume": "Spatiu intracranian",
+        "noduri_legate": [21,22,23],
+        "arc_nod": ["contine","contine","contine"],
+        "domeniu": "Cap",
+        "sinonime": []
+		"e_concept": True
+		"definitie": "Nu gasesc definitia pe wiki"
+    },
+    {
+        "id": 21,
+        "nume": "L.C.R.",
+        "noduri_legate": [],
+        "arc_nod": [],
+        "domeniu": "Cap",
+        "sinonime": ["Lichid cerebrospinal"]
+	"e_concept": True
+	"definitie": "Este un lichid clar si transparent care umple sistemul ventricular cerebral"
+    },
+    {
+        "id": 22,
+        "nume": "Sange",
+        "noduri_legate": [31,32],
+        "arc_nod": ["de_tip", "de_tip"],
+        "domeniu": "Cap",
+        "sinonime": []
+	"e_concept": True
+	"definitie": "Este o substanta lichida de culoare rosie, compusa din plasma si din globule"
+    },
+    {
+        "id": 23,
+        "nume": "Creier",
+        "noduri_legate": [41, 42],
+        "arc_nod": ["Glie", "Glanda epifiza"],
+        "domeniu": "Cap",
+        "sinonime": ["Encefal"]
+	"e_concept": True
+	"definitie": "Partea cea mai importanta a sistemului nervos central la vertebrate, organ al gandirii si al constiintei umane"
+    },
+    {
+        "id": 31,
+        "nume": "Arterial",
+        "noduri_legate": [],
+        "arc_nod": [],
+        "domeniu": "Cap",
+        "sinonime": []
+	"e_concept": True
+	"definitie": "Ceva pe acolo"
+    },
+    {
+        "id": 32,
+        "nume": "Venos",
+        "noduri_legate": [],
+        "arc_nod": [],
+        "domeniu": "Cap",
+        "sinonime": []
+	"e_concept": True
+	"definitie": "Ceva pe acolo"
+    },
+    {
+        "id": 41,
+        "nume": "Glanda epifiza",
+        "noduri_legate": [],
+        "arc_nod": [],
+        "domeniu": "Cap",
+        "sinonime": ["Glanda pineala"]
+	"e_concept": True
+	"definitie": "Este responsabila pentru secretia unor hormoni"
+    },
+    {
+        "id": 42,
+        "nume": "Neuroni",
+        "noduri_legate": [],
+        "arc_nod": [],
+        "domeniu": "Cap",
+        "sinonime": ["Neurocit"]
+	"e_concept": True
+	"definitie": "Element structural si functional de baza al sistemului nervos"
+    }
+]
+
+fisier2_proprietati.txt:
+[
+    {
+        "id": 1,
+        "nume": "Rigida",
+        "parinte": [],
+        "id_sub": [12]
+    },
+    {
+        "id": 2,
+        "nume": "Inextensibila la adult",
+        "parinte": [],
+        "id_sub": [12]
+    },
+    {
+        "id": 3,
+        "nume": "Volum constant aprox. 1500 cm3",
+        "parinte": [],
+        "id_sub": [12]
+    },
+    {
+        "id": 4,
+        "nume": "Variatii individuale intre sexe",
+        "parinte": [3],
+        "id_sub": [12]
+    },
+    {
+        "id": 5,
+        "nume": "100-150 ml",
+        "parinte": [],
+        "id_sub": [21,41]
+    },
+    {
+        "id": 6,
+        "nume": "1250 cm3",
+        "parinte": [],
+        "id_sub": [23]
+    }
+]
