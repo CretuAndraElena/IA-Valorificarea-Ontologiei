@@ -1,0 +1,415 @@
+{
+    "Alte:spatii:de:rezerva": {
+        "desc": "",
+        "id": "Alte:spatii:de:rezerva",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Spatii:de:Rezerva"
+            ]
+        }
+    },
+    "Arterial": {
+        "desc": "",
+        "id": "Arterial",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Sange"
+            ]
+        }
+    },
+    "Circulatia:cerebrala": {
+        "desc": "",
+        "id": "Circulatia:cerebrala",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        }
+    },
+    "Complianta:cerebrala": {
+        "desc": "",
+        "id": "Complianta:cerebrala",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Creier": {
+        "desc": "",
+        "id": "Creier",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Glanda:epifiza",
+                "Glie",
+                "L.I.",
+                "Neuroni",
+                "Peretii:vaselor:sanguine",
+                "meninge",
+                "radacinile:nervilor:cranieni"
+            ],
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        }
+    },
+    "Cutia:craniana": {
+        "desc": "",
+        "id": "Cutia:craniana",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Complianta:cerebrala",
+                "Fluxul:sangvin",
+                "Perfuzia:cerebrala:normala",
+                "Sindromul:de:HIC",
+                "Spatii:de:Rezerva",
+                "Spatiu:intracranian",
+                "Structuri:fibroase",
+                "Zone:de:comunicare"
+            ],
+            "is_a": [
+                "Thing"
+            ]
+        }
+    },
+    "Epuizarea:spatiilor:de:rezerva": {
+        "desc": "",
+        "id": "Epuizarea:spatiilor:de:rezerva",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Spatii:de:Rezerva"
+            ]
+        }
+    },
+    "Fluxul:sangvin": {
+        "desc": "",
+        "id": "Fluxul:sangvin",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Glanda:epifiza": {
+        "desc": "",
+        "id": "Glanda:epifiza",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Glie": {
+        "desc": "",
+        "id": "Glie",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Incizura:subfalciforma": {
+        "desc": "",
+        "id": "Incizura:subfalciforma",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Structuri:fibroase"
+            ]
+        }
+    },
+    "Incizura:tentoriala": {
+        "desc": "",
+        "id": "Incizura:tentoriala",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Structuri:fibroase"
+            ]
+        }
+    },
+    "L.C.R": {
+        "desc": "",
+        "id": "L.C.R",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        }
+    },
+    "L.I.": {
+        "desc": "",
+        "id": "L.I.",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Neuroni": {
+        "desc": "",
+        "id": "Neuroni",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Peretii:vaselor:sanguine": {
+        "desc": "",
+        "id": "Peretii:vaselor:sanguine",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Perfuzia:cerebrala:normala": {
+        "desc": "",
+        "id": "Perfuzia:cerebrala:normala",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Sange": {
+        "desc": "",
+        "id": "Sange",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Arterial",
+                "Venos"
+            ],
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        }
+    },
+    "Sindromul:de:HIC": {
+        "desc": "",
+        "id": "Sindromul:de:HIC",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Spatii:de:Rezerva": {
+        "desc": "",
+        "id": "Spatii:de:Rezerva",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Alte:spatii:de:rezerva",
+                "Epuizarea:spatiilor:de:rezerva",
+                "Spatiu:de:rezerva:lichidian",
+                "Volume"
+            ],
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Spatiu:de:rezerva:lichidian": {
+        "desc": "",
+        "id": "Spatiu:de:rezerva:lichidian",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Spatii:de:Rezerva"
+            ]
+        }
+    },
+    "Spatiu:intracranian": {
+        "desc": "",
+        "id": "Spatiu:intracranian",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Circulatia:cerebrala",
+                "Creier",
+                "L.C.R",
+                "Sange"
+            ],
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Structuri:fibroase": {
+        "desc": "",
+        "id": "Structuri:fibroase",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Incizura:subfalciforma",
+                "Incizura:tentoriala"
+            ],
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Venos": {
+        "desc": "",
+        "id": "Venos",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Sange"
+            ]
+        }
+    },
+    "Volume": {
+        "desc": "",
+        "id": "Volume",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Spatii:de:Rezerva"
+            ]
+        }
+    },
+    "Zone:de:comunicare": {
+        "desc": "",
+        "id": "Zone:de:comunicare",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "gaura:occipitala",
+                "gaurile:rupte:posterioare"
+            ],
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "gaura:occipitala": {
+        "desc": "",
+        "id": "gaura:occipitala",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "spatiul:subarahnoidian:cranian",
+                "spatiul:subarahnoidian:spinal"
+            ],
+            "is_a": [
+                "Zone:de:comunicare"
+            ]
+        }
+    },
+    "gaurile:rupte:posterioare": {
+        "desc": "",
+        "id": "gaurile:rupte:posterioare",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "vene:jugulare:interne"
+            ],
+            "is_a": [
+                "Zone:de:comunicare"
+            ]
+        }
+    },
+    "meninge": {
+        "desc": "",
+        "id": "meninge",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "radacinile:nervilor:cranieni": {
+        "desc": "",
+        "id": "radacinile:nervilor:cranieni",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "spatiul:subarahnoidian:cranian": {
+        "desc": "",
+        "id": "spatiul:subarahnoidian:cranian",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "gaura:occipitala"
+            ]
+        }
+    },
+    "spatiul:subarahnoidian:spinal": {
+        "desc": "",
+        "id": "spatiul:subarahnoidian:spinal",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "gaura:occipitala"
+            ]
+        }
+    },
+    "vene:jugulare:interne": {
+        "desc": "",
+        "id": "vene:jugulare:interne",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "gaurile:rupte:posterioare"
+            ]
+        }
+    }
+}
