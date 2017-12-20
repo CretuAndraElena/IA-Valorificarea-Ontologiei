@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#"
+     xml:base="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#0-20mmHG -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#0-20mmHG">
+        <rdfs:comment>depinde in functie de : starea de hidratare,efort,orstatism,presiune toracica</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#oscilatii_fiziologice"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#10-15mmHG -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#10-15mmHG">
+        <rdfs:comment>normala</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#presiune_intracraniana"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#100-150ml -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#100-150ml">
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#L.C.R"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#L.I."/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#1250cm3 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#1250cm3">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#inextensibila_la_adult -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#inextensibila_la_adult">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#oscilatii_fiziologice -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#oscilatii_fiziologice">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#peste_10-15mmHG -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#peste_10-15mmHG">
+        <rdfs:comment>crescuta</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#presiune_intracraniana"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#presiune_intracraniana -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#presiune_intracraniana">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rigida -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rigida">
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#variatii_individuale_intre_sexe -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#variatii_individuale_intre_sexe">
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#volum_constant_aprox._1500cm3"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#volum_constant_aprox._1500cm3 -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#volum_constant_aprox._1500cm3">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+        <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Arterial -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Arterial">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana">
+        <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Glanda_epifiza -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Glanda_epifiza">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Glie -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Glie">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#L.C.R -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#L.C.R">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#L.I. -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#L.I.">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Neuroni -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Neuroni">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Peretii_vaselor_sanguine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Peretii_vaselor_sanguine">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Venos -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Venos">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#meninge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#meninge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#radacinile_nervilor_cranieni -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#radacinile_nervilor_cranieni">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Creier"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
