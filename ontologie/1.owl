@@ -72,6 +72,85 @@
     
 
 
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#50_ml_sange/100g_tesut_nervos/minut -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#50_ml_sange/100g_tesut_nervos/minut">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rezistenta_la_ischemie_poate_creste"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Perfuzia_cerebrala_normala"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#LCR-ul -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#LCR-ul">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sindromul_de_HIC"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#administrare_de_barbiturice -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#administrare_de_barbiturice">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rezistenta_la_ischemie_poate_creste"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Neuroni"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Alte_spatii_de_rezerva"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Alte_spatii_de_rezerva"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#asigura_deplasarile_rapide_ale_volumelor_lichidiene_intracraniene -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#asigura_deplasarile_rapide_ale_volumelor_lichidiene_intracraniene">
@@ -79,6 +158,26 @@
         <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#gaura_occipitala"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#gaurile_rupte_posterioare"/>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#atrofia_tesutului_cerebral -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#atrofia_tesutului_cerebral">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Alte_spatii_de_rezerva"/>
+            </owl:Restriction>
+        </rdfs:range>
     </owl:ObjectProperty>
     
 
@@ -92,11 +191,168 @@
     
 
 
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#creierul -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#creierul">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sindromul_de_HIC"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#cresterea_absorbtiei_de_LCR -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#cresterea_absorbtiei_de_LCR">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#definita_de_deltaV/deltaP -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#definita_de_deltaV/deltaP">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Complianta_cerebrala"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#deschisa -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#deschisa">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#deshidratarea_tesutului_cerebral -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#deshidratarea_tesutului_cerebral">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Alte_spatii_de_rezerva"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#determina_suferinta_cerebrala_simptomatica -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#determina_suferinta_cerebrala_simptomatica">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sub_30_ml_sange/tesut_nervos/minut"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Perfuzia_cerebrala_normala"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#difera_de_la_un_individ_la_altul -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#difera_de_la_un_individ_la_altul">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#difera_de_la_un_individ_la_altul"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_de_rezerva_lichidian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#difera_de_la_un_individ_la_altul"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_de_rezerva_lichidian"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#duce_la_deficit_clinic_complet -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#duce_la_deficit_clinic_complet">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sub_20_ml_sange/100_g_tesut_nervos/_minut"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Perfuzia_cerebrala_normala"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#fara_consecinte_patologice -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#fara_consecinte_patologice">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#fara_consecinte_patologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Volume"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#fara_consecinte_patologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Volume"/>
+            </owl:Restriction>
+        </rdfs:domain>
     </owl:ObjectProperty>
     
 
@@ -107,6 +363,103 @@
         <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
         <rdfs:subPropertyOf rdf:resource="&owl;topObjectProperty"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Fluxul_sangvin"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#mare -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#mare">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Complianta_cerebrala"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#maxima_la_PPC_=_150_mmHg -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#maxima_la_PPC_=_150_mmHg">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Circulatia_cerebrala"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#maxima_la_PPC_=_50_mmHg -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#maxima_la_PPC_=_50_mmHg">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasodilatatie"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasodilatatie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Circulatia_cerebrala"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasodilatatie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#oprirea_lui_duce_la_deces_in_3-5_minute -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#oprirea_lui_duce_la_deces_in_3-5_minute">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Fluxul_sangvin"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
     </owl:ObjectProperty>
     
 
@@ -149,11 +502,108 @@
     
 
 
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#prin_hipotermie -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#prin_hipotermie">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rezistenta_la_ischemie_poate_creste"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Neuroni"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#proces_expansiv_intracranian -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#proces_expansiv_intracranian">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Epuizarea_spatiilor_de_rezerva"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#relativ_inextensibile -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#relativ_inextensibile">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Structuri_fibroase"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#reprezinta_15-20percent_din_debitul_cardiac -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#reprezinta_15-20percent_din_debitul_cardiac">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Fluxul_sangvin"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rezistenta_la_ischemie_poate_creste -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rezistenta_la_ischemie_poate_creste">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Neuroni"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rezistente_la_hipoxie_scazuta -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#rezistente_la_hipoxie_scazuta">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Neuroni"/>
+            </owl:Restriction>
+        </rdfs:range>
     </owl:ObjectProperty>
     
 
@@ -177,11 +627,165 @@
     
 
 
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sange_circulant -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sange_circulant">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sindromul_de_HIC"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
     <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sangele_poate_fi_mobilizat_intr-o_cantitate_mai_mare_sau_mai_mica -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sangele_poate_fi_mobilizat_intr-o_cantitate_mai_mare_sau_mai_mica">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vene_jugulare_interne"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#scaderea_secretiei_de_LCR -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#scaderea_secretiei_de_LCR">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#scazuta -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#scazuta">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Complianta_cerebrala"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sporirea_de_volum_a_unei_componente_normal_existente"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sindromul_de_HIC"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#stare_de_parabioza -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#stare_de_parabioza">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Neuroni"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sub_20_ml_sange/100_g_tesut_nervos/_minut -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sub_20_ml_sange/100_g_tesut_nervos/_minut">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Perfuzia_cerebrala_normala"/>
+            </owl:Restriction>
+        </rdfs:range>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sub_30_ml_sange/tesut_nervos/minut -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#sub_30_ml_sange/tesut_nervos/minut">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Perfuzia_cerebrala_normala"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#la_adult_cca_750-1000_ml/minut"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#usor_dislocabile -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#usor_dislocabile">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#usor_dislocabile"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Volume"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#usor_dislocabile"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Volume"/>
+            </owl:Restriction>
+        </rdfs:domain>
     </owl:ObjectProperty>
     
 
@@ -192,6 +796,64 @@
         <rdfs:range rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
         <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#volum_constant_aprox._1500cm3"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie">
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Circulatia_cerebrala"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie_arteriala -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasoconstrictie_arteriala">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Alte_spatii_de_rezerva"/>
+            </owl:Restriction>
+        </rdfs:range>
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#apar_prin_mecanisme_compensatorii_si_fiziopatologice"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+            </owl:Restriction>
+        </rdfs:domain>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasodilatatie -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasodilatatie">
+        <rdfs:domain>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasodilatatie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+            </owl:Restriction>
+        </rdfs:domain>
+        <rdfs:range>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#vasodilatatie"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Circulatia_cerebrala"/>
+            </owl:Restriction>
+        </rdfs:range>
     </owl:ObjectProperty>
     
 
@@ -217,10 +879,34 @@
     
 
 
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Alte_spatii_de_rezerva -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Alte_spatii_de_rezerva">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Arterial -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Arterial">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Circulatia_cerebrala -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Circulatia_cerebrala">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Complianta_cerebrala -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Complianta_cerebrala">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
     </owl:Class>
     
 
@@ -237,6 +923,22 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana">
         <rdfs:subClassOf rdf:resource="&owl;Thing"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Epuizarea_spatiilor_de_rezerva -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Epuizarea_spatiilor_de_rezerva">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Fluxul_sangvin -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Fluxul_sangvin">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
     </owl:Class>
     
 
@@ -305,10 +1007,42 @@
     
 
 
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Perfuzia_cerebrala_normala -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Perfuzia_cerebrala_normala">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_intracranian"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sindromul_de_HIC -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sindromul_de_HIC">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Cutia_craniana"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_de_rezerva_lichidian -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatiu_de_rezerva_lichidian">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
     </owl:Class>
     
 
@@ -333,6 +1067,14 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Venos">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Sange"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Volume -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Volume">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/clim_/ontologies/2017/11/untitled-ontology-11#Spatii_de_Rezerva"/>
     </owl:Class>
     
 
