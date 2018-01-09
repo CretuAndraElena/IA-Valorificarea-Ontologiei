@@ -1,0 +1,177 @@
+{
+    "Arterial": {
+        "desc": "",
+        "id": "Arterial",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Sange"
+            ]
+        }
+    },
+    "Creier": {
+        "desc": "",
+        "id": "Creier",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Glanda:epifiza",
+                "Glie",
+                "L.I.",
+                "Neuroni",
+                "Peretii:vaselor:sanguine",
+                "meninge",
+                "radacinile:nervilor:cranieni"
+            ],
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        }
+    },
+    "Cutia:craniana": {
+        "desc": "",
+        "id": "Cutia:craniana",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Spatiu:intracranian"
+            ],
+            "is_a": [
+                "Thing"
+            ]
+        }
+    },
+    "Glanda:epifiza": {
+        "desc": "",
+        "id": "Glanda:epifiza",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Glie": {
+        "desc": "",
+        "id": "Glie",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "L.C.R": {
+        "desc": "",
+        "id": "L.C.R",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        }
+    },
+    "L.I.": {
+        "desc": "",
+        "id": "L.I.",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Neuroni": {
+        "desc": "",
+        "id": "Neuroni",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Peretii:vaselor:sanguine": {
+        "desc": "",
+        "id": "Peretii:vaselor:sanguine",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "Sange": {
+        "desc": "",
+        "id": "Sange",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Arterial",
+                "Venos"
+            ],
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        }
+    },
+    "Spatiu:intracranian": {
+        "desc": "",
+        "id": "Spatiu:intracranian",
+        "name": "",
+        "other": {},
+        "relations": {
+            "can_be": [
+                "Creier",
+                "L.C.R",
+                "Sange"
+            ],
+            "is_a": [
+                "Cutia:craniana"
+            ]
+        }
+    },
+    "Venos": {
+        "desc": "",
+        "id": "Venos",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Sange"
+            ]
+        }
+    },
+    "meninge": {
+        "desc": "",
+        "id": "meninge",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    },
+    "radacinile:nervilor:cranieni": {
+        "desc": "",
+        "id": "radacinile:nervilor:cranieni",
+        "name": "",
+        "other": {},
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        }
+    }
+}
