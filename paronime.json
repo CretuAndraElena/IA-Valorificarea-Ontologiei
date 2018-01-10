@@ -1,0 +1,282 @@
+{
+  "Arterial": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Sange"
+      ]
+    },
+    "id": "Arterial",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "Glanda:epifiza": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Creier"
+      ]
+    },
+    "id": "Glanda:epifiza",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "Glie": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Creier"
+      ]
+    },
+    "id": "Glie",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": [
+      "glume",
+      "falie",
+      "talie",
+      "Dalie",
+      "felie",
+      "Fulie",
+      "Glie",
+      "Gruie",
+      "gaie",
+      "solie",
+      "glisa",
+      "gulie",
+      "Avlie",
+      "molie",
+      "golie",
+      "lilie",
+      "Zulie",
+      "iulie",
+      "Dulie",
+      "Folie",
+      "Colie",
+      "Halie",
+      "Govie",
+      "Glic-",
+      "delie",
+      "glose",
+      "lie",
+      "Glaje"
+    ]
+  },
+  "Cutia:craniana": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Thing"
+      ],
+      "can_be": [
+        "Spatiu:intracranian"
+      ]
+    },
+    "id": "Cutia:craniana",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "Venos": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Sange"
+      ]
+    },
+    "id": "Venos",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": [
+      "omenos",
+      "Veros",
+      "stenos",
+      "Venus",
+      "Verbos"
+    ]
+  },
+  "meninge": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Creier"
+      ]
+    },
+    "id": "meninge",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "L.I.": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Creier"
+      ]
+    },
+    "id": "L.I.",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "Peretii:vaselor:sanguine": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Creier"
+      ]
+    },
+    "id": "Peretii:vaselor:sanguine",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "Neuroni": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Creier"
+      ]
+    },
+    "id": "Neuroni",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": [
+      "neuron"
+    ]
+  },
+  "Creier": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Spatiu:intracranian"
+      ],
+      "can_be": [
+        "Glanda:epifiza",
+        "Glie",
+        "L.I.",
+        "Neuroni",
+        "Peretii:vaselor:sanguine",
+        "meninge",
+        "radacinile:nervilor:cranieni"
+      ]
+    },
+    "id": "Creier",
+    "other": {},
+    "Sinomime": [
+      "  encefal ",
+      " creierul mic  cerebel'",
+      " 'CREIER   butuc",
+      " desteptaciune",
+      " intelect",
+      " inteligenta",
+      " judecata",
+      " minte",
+      " pricepere",
+      " ratiune",
+      " spirit"
+    ],
+    "desc": "",
+    "Paronime": [
+      "Creier",
+      "greier",
+      "Crier",
+      "crupier"
+    ]
+  },
+  "Spatiu:intracranian": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Cutia:craniana"
+      ],
+      "can_be": [
+        "Creier",
+        "L.C.R",
+        "Sange"
+      ]
+    },
+    "id": "Spatiu:intracranian",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "L.C.R": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Spatiu:intracranian"
+      ]
+    },
+    "id": "L.C.R",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "radacinile:nervilor:cranieni": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Creier"
+      ]
+    },
+    "id": "radacinile:nervilor:cranieni",
+    "other": {},
+    "Sinomime": [],
+    "desc": "",
+    "Paronime": []
+  },
+  "Sange": {
+    "name": "",
+    "relations": {
+      "is_a": [
+        "Spatiu:intracranian"
+      ],
+      "can_be": [
+        "Arterial",
+        "Venos"
+      ]
+    },
+    "id": "Sange",
+    "other": {},
+    "Sinomime": [
+      " rasa  ",
+      " familie",
+      " neam  ",
+      " viata  ",
+      " jertfa",
+      " sacrificiu  ",
+      "  musucel",
+      " putoi'",
+      " 'SANGE MOHORAT   antrax",
+      " carbune",
+      " dalac",
+      " pustula maligna'",
+      " 'SANGE RECE   calm",
+      " cumpat",
+      " fire",
+      " stapanire'",
+      " 'SANGELE-VOINICULUI   oresnita'",
+      " 'SCUIPARE DE SANGE   hemoptizie"
+    ],
+    "desc": "",
+    "Paronime": [
+      "stinge",
+      "Cange",
+      "sanie"
+    ]
+  }
+}
