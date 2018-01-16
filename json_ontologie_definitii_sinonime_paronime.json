@@ -1,0 +1,403 @@
+{
+    "Arterial": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Sange"
+            ]
+        },
+        "id": "Arterial",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": [
+            "arterial, ~a a [At: DA ms / P: ~ri-al / Pl: ~i, -e / E: fr arteriel] 1 Care apartine arterelor (1). 2 Referitor la artere (1). 3 Care circula prin artere (1). 4 Specific arterelor (1).",
+            "ARTERIAL, -A, arteriali, -e, adj. Care apartine arterelor, privitor la artere, care circula prin artere. [Pr.: -ri-al] - Din fr. arteriel.",
+            "ARTERIAL, -A, arteriali, -e, adj. Care apartine arterelor, privitor la artere, care circula prin artere. [Pr.: -ri-al] - Din fr. arteriel.",
+            "ARTERIAL, -A, arteriali, -e, adj. Care tine de artere, al arterelor, de artere. Retea arteriala. Tensiune arteriala.  Din artere, care circula prin artere. Singe arterial.\n- Pronuntat: -ri-al.",
+            "ARTERIAL, -A, arteriali, -e, adj. Care tine de artere, privitor la artere.  (Despre sange) Din artere, care circula prin artere. [Pr.: -ri-al] - Fr. arteriel.",
+            "arterial (-ri-al) adj. m., pl. arteriali; f. arteriala, pl. arteriale",
+            "arterial adj. m. (sil. -ri-al), pl. arteriali; f. sg. arteriala, pl. arteriale",
+            "ARTERIAL, -A adj. Referitor la artere.  (Despre sange) Din artere, al arterelor. [Pron. -ri-al. / cf. fr. arteriel].",
+            "ARTERIAL, -A adj. referitor la artere. * (despre sange) care circula prin artere. (< fr. arteriel)",
+            "ARTERIAL ~a (~i, ~e) Care tine de artere; propriu arterei. Tensiune ~a. [Sil. -ri-al] / <fr. arteriel",
+            "arterial a. ce tine de artera; sange arterial, sange rosu (in opozitiune cu cel vanos).",
+            "*arterial, -a adj. (d. lat. arteria, artera). De artera: singe arterial. V. vinos."
+        ]
+    },
+    "Glanda:epifiza": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        },
+        "id": "Glanda:epifiza",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": []
+    },
+    "Glie": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        },
+        "id": "Glie",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [
+            "glume",
+            "falie",
+            "talie",
+            "Dalie",
+            "felie",
+            "Fulie",
+            "Glie",
+            "Gruie",
+            "gaie",
+            "solie",
+            "glisa",
+            "gulie",
+            "Avlie",
+            "molie",
+            "golie",
+            "lilie",
+            "Zulie",
+            "iulie",
+            "Dulie",
+            "Folie",
+            "Colie",
+            "Halie",
+            "Govie",
+            "Glic-",
+            "delie",
+            "glose",
+            "lie",
+            "Glaje"
+        ],
+        "Definitii": [
+            "GLIE, glii, s. f. 1. Pamant; ogor; fig. patrie. * Expr. Sub glie = in mormant. 2. Brazda de pamant (cu iarba cu tot, cata se poate desprinde odata cu harletul). - Et. nec.",
+            "GLIE, glii, s. f. (Pop.) 1. Pamant, ogor; fig. patrie. * Expr. Sub glie = in mormant. 2. Brazda de pamant (cu iarba cu tot, cata se poate desprinde o data cu harletul). - Et. nec.",
+            "GLIE, glii, s. f. (Popular si poetic) 1. Pamint; ogor, tarina. Dar cine-ai fost, noi totusi stim. Din glie o stie orice petic. Caci zborul nostru spre-naltimi Tu l-ai deschis, om sovietic! DRAGOMIR, S. 47. Oamenii isi zalogeau glia, vitele, sumanele. CAMILAR, N. I 332. Tu fii ostasul jertfei mari, depline: Ca dintr-un bob sa odrasleasca mia, Cu singele tau cald stropeste glia! VLAHUTA, O. A. I 26. * Expr. Sub glie sau sub glii = in mormint, ingropat. Strainul se odihnea sub glii. SADOVEANU, O. I 380. Dar George-al nostru cum o duce? - Sub glie, taica, si sub cruce. COSBUC, P. I 101.  Fig. Pamint stramosesc, tara, patrie. 2. Brazda de pamint. Pretutindeni gliile erau intoarse, schimbasera culoarea pamintului. CAMILAR, TEM. 90. Calul... Cu piciorul ca-mi batea, Glie din pamint rupea. TEODORESCU, P. P. 610.",
+            "glie s. f., art. glia, g.-d. art. gliei; pl. glii",
+            "glie s. f., art. glia, g.-d. art. gliei; pl. glii",
+            "GLIE s. (Mold.) brazda. (O ~ de pamant.)",
+            "GLIE s. v. nevroglie.",
+            "GLIE s. v. camp, ogor, patrie, pamant, tara, tarina.",
+            "-GLIE2 elem. glio-.",
+            "GLIE1 s. f. (med.) nevroglie. (< germ. Glia)",
+            "glie (glii), s. f. - 1. Pamint, ogor. - 2. Pamint, cimp. Sl., din aceeasi familie cu clisa; insa etimonul exact nu a fost inca identificat; cf. slov. glie ,,coca, pap\", rut, rus. glej ,,lut, argila\" (DAR). Cel de al doilea sens este pur literar. Dupa Korting 4166 si Tiktin, urmati de REW 3782, din lat. gleba, incrucisat cu rut. gliba.",
+            "GLIE ~i f. 1) Brazda de pamant cu iarba, care poate fi desprinsa o singura data cu harletul. 2) Teren pregatit special pentru culturi agricole; ogor; tarina. 3) Pamant stramosesc. * Sub ~ (sau ~i) in mormant. /<rus. glej, slov. glie",
+            "glie f. brazda samanata cu iarba. [Cf. rus. GLYBA].",
+            "glie f. (rus. glei, rut. hlei, lut, nomol, hlei, ruda cu gr. glia, clei. Din lat. gleba, bulgare, teren, mosie, s'ar fi facut rom. gheaua, iar din rus. glyba, bulgare, s'ar fi facut gliba. Cp. si cu vsl. glina, lut). Trans. Munt. Mold. (Rar). Bucata de pamint cu iarba scoasa dintr'un loc si pusa aiurea ca sa opreasca naruirea (lat. caespes). Poet. Supt glie, in pamint (de ex., mort). V. gleba.",
+            "glie s. v. CIMP. OGOR. PATRIE. PAMINT. TARA. TARINA.",
+            "GLIE s. (Mold.) brazda. (O ~ de pamint.)",
+            "GLIE s. (ANAT.) nevroglie.",
+            "-GLIE ,,clei, gelatina, cleios, viscos\". * gr. glia ,,clei\" > fr. -glie, germ. id., engl. -glia, it. id. > rom. -glie."
+        ]
+    },
+    "Cutia:craniana": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Thing"
+            ],
+            "can_be": [
+                "Spatiu:intracranian"
+            ]
+        },
+        "id": "Cutia:craniana",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": []
+    },
+    "Venos": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Sange"
+            ]
+        },
+        "id": "Venos",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [
+            "omenos",
+            "Veros",
+            "stenos",
+            "Venus",
+            "Verbos"
+        ],
+        "Definitii": [
+            "VENOS, -OASA, venosi, -oase, adj. Care apartine venei (1), privitor la vena, care se face prin vena, circula prin vena sau se afla in regiunea venelor. - Din fr. veineux, lat. venosus.",
+            "VENOS, -OASA, venosi, -oase, adj. Care apartine venei (1), privitor la vena, care se face prin vena, circula prin vena sau se afla in regiunea venelor. - Din fr. veineux, lat. venosus.",
+            "VENOS, -OASA, venosi, -oase, adj. Care apartine vinei, privitor la vina, care se face prin vina, din regiunea vinelor. Circulatia venoasa este micsorata. DANIELOPOLU, F. N. II 37.",
+            "venos adj. m., pl. venosi; f. venoasa, pl. venoase",
+            "venos adj. m., pl. venosi; f. sg. venoasa, pl. venoase",
+            "VENOS, -OASA adj. 1. Referitor la vene. 2. (Bot.; despre unele organe) Foarte fin reticulat. [Cf. fr. veineux, lat. venosus].",
+            "VENOS, -OASA adj. 1. referitor la vene; care circula prin vene. 2. (bot.; despre unele organe) cu vinisoare. (< fr. veineux, lat. venosus)",
+            "VENOS ~oasa (~osi, ~oase) Care tine de vene; privitor la vene. /<lat. venosus, fr. veineux"
+        ]
+    },
+    "meninge": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        },
+        "id": "meninge",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": [
+            "MENINGE, meninge, s. n. Fiecare dintre cele trei membrane care invelesc creierul si maduva spinarii. - Din fr. meninge.",
+            "MENINGE, meninge, s. n. Fiecare dintre cele trei membrane care invelesc creierul si maduva spinarii. - Din fr. meninge.",
+            "MENINGE s. n. Fiecare dintre cele trei membrane care infasoara creierul si maduva spinarii.",
+            "meninge s. n., pl. meninge",
+            "meninge s. n., pl. meninge",
+            "MENINGE s.n. Fiecare dintre cele trei membrane care invelesc creierul si maduva spinarii: duramater, piamater si arahnoida. [Pl. invar. / < fr. meninge, cf. gr. meninx - membrana].",
+            "MENINGE s. n. fiecare dintre cele trei membrane care invelesc creierul si maduva spinarii (dura mater, pia mater si arahnoida). (< fr. meninge)",
+            "MENINGE ~ n. Membrana care acopera creierul si maduva spinarii. /<fr. meninge",
+            "*meninge n., ca laringe (vgr. menigx si menigx, gen. meniggos, f.). Anat. Numele celor trei membrane (dura-mater, arachnoidea si pia-mater) care invalesc creieru si maduva spinarii. V. faringe si laringe."
+        ]
+    },
+    "L.I.": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        },
+        "id": "L.I.",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": [
+            "uciga-l-toaca s. v. AGHIUTA. ALCOR. DEMON. DIAVOL. DRAC. INCORNORATUL. NAIBA. NECURATUL. SATANA. TARTOR."
+        ]
+    },
+    "Peretii:vaselor:sanguine": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        },
+        "id": "Peretii:vaselor:sanguine",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": []
+    },
+    "Neuroni": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        },
+        "id": "Neuroni",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [
+            "neuron"
+        ],
+        "Definitii": [
+            "NEURON, neuroni, s. m. Element structural si functional de baza al sistemului nervos compus dintr-un corp celular protoplasmatic, care contine un nucleu, si din prelungiri protoplasmatice; neurocit. [Pr.: ne-u-] - Din fr. neurone.",
+            "NEURON, neuroni, s. m. Element structural si functional de baza al sistemului nervos compus dintr-un corp celular protoplasmatic, care contine un nucleu, si din prelungiri protoplasmatice; neurocit. [Pr.: ne-u-] - Din fr. neurone.",
+            "NEURON, neuroni, s. m. Celula nervoasa. Studiul microscopic al tesutului nervos a aratat ca in structura sa intra celule nervoase, de forma variata, numite neuroni. ANATOMIA 29.",
+            "neuron (ne-u-) s. m., pl. neuroni",
+            "neuron s. m. (sil. ne-u-), pl. neuroni",
+            "NEURON s. (ANAT.) neurocit.",
+            "NEURON s.m. (Biol.) Celula nervoasa; neurocit. [< fr. neurone, cf. gr. neuron - nerv].",
+            "NEURON s. m. celula nervoasa; neurocit. (< fr. neurone)",
+            "NEURON ~i m. Celula nervoasa. [Sil. ne-u-] /<fr. neurone",
+            "NEURON s. (ANAT.) neurocit.",
+            "NEURON (< fr. {i}; {s} gr. neuron ,,nerv\") s. m. (HIST.) Celula nervoasa (element de baza al sistemului nervos) specializata in conducerea impulsurilor nervoase, compusa dintr-un corp celular numit perikarion si din prelungiri protoplasmatice de doua tipuri: axon sau cilindru-ax unic, de obicei lung, si dendrite, de obicei multiple si scurte; neurocit. La nastere, omul are intre 10 si 100 de miliarde de n."
+        ]
+    },
+    "Creier": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Spatiu:intracranian"
+            ],
+            "can_be": [
+                "Glanda:epifiza",
+                "Glie",
+                "L.I.",
+                "Neuroni",
+                "Peretii:vaselor:sanguine",
+                "meninge",
+                "radacinile:nervilor:cranieni"
+            ]
+        },
+        "id": "Creier",
+        "other": {},
+        "Sinomime": [
+            "  encefal ",
+            " creierul mic  cerebel'",
+            " 'CREIER   butuc",
+            " desteptaciune",
+            " intelect",
+            " inteligenta",
+            " judecata",
+            " minte",
+            " pricepere",
+            " ratiune",
+            " spirit"
+        ],
+        "desc": "",
+        "Paronime": [
+            "Creier",
+            "greier",
+            "Crier",
+            "crupier"
+        ],
+        "Definitii": [
+            "CREIER, (1,3) creieri, s. m., (2) creiere, s. n. 1. Partea cea mai importanta a sistemului nervos central la vertebrate, organ al gandirii si al constiintei umane, care este situata in cutia craniana si compusa din trunchiul cerebral, creierul mic si emisferele cerebrale. * Creierul mic = parte a creierului situata in regiunea posterioara si inferioara a craniului; cerebel. Creierul mare = parte a creierului situata in regiunea anterioara si superioara a craniului. 2. Fig. Minte, inteligenta, judecata.  Element (persoana) care organizeaza si conduce o actiune. 3. (In expr.) Creierii (sau creierul) muntilor = locurile cele mai inalte si mai greu accesibile ale muntilor. [Var.: (inv.) crier s. m.] - Lat. c(e)rebellum.",
+            "CREIER, creieri, s. m. 1. Partea cea mai importanta a sistemului nervos central la animale, organ al gandirii si al constiintei la om, situat in cutia craniana si compus din trunchiul cerebral, creierul mic si emisferele cerebrale. * Creierul mic = parte a creierului situata in regiunea posterioara si inferioara a craniului; cerebel. Creierul mare = parte a creierului situata in regiunea anterioara si superioara a craniului. 2. Fig. Minte, inteligenta, judecata.  Element care organizeaza si conduce o actiune. 3. (In expr.) Creierii (sau creierul) muntilor = locurile cele mai inalte si mai greu accesibile ale muntilor. [Var.: (inv.) crier s. m.] - Lat. c(e)rebellum.",
+            "CREIER, creieri, s. m. (La pl. adesea cu valoare de sg.) 1. Partea cea mai importanta a sistemului nervos central la toate animalele, organ al gindirii si al constiintei omului, situat in cutia craniana si compus dintr-o masa de substanta nervoasa; encefal. Constiinta si gindirea noastra, aricit de mult ar parea ca se situeaza deasupra simturilor noastre, sint produsul unui organ material, fizic, produsul creierului. MARX-ENGELS, O. A. II Daca ne punem insa intrebarea ce sint in fond gindirea si constiinta si care este originea lor, constatam ca ele sint produse ale creierului omenesc. ENGELS, 43. Creierul mic = parte a creierului situata in regiunea posterioara si inferioara a craniului; cerebel. Creierul mare = parte a creierului situata in regiunea anterioara si superioara a craniului. 2. Fig. Minte, inteligenta, judecata. Rumi adunase-n creier Toata cumintia lumii. COSBUC, P. I 71. * Expr. A-si framinta creierii = a-si chinui mintea, a-si bate capul.  Elementul care organizeaza si conduce o actiune. Creierul si sufletul infernalului complot. CARAGIALE, M. 76. 3. (In expr.) Creierii (rar creierul) muntilor = locurile cele mai indepartate si mai greu accesibile ale muntilor. Motii vin din creierul muntilor, dau o roata prin tirg... si pornesc inapoi. BOGZA, T. 22. A plins Danila si s-a suit in creierii muntilor. GALACTION, O. I 156. In creierii muntilor era sa mearga mai greu ca pe loc ses. CARAGIALE, O. III 91. - Varianta: (regional) crier (EMINESCU, O. I 134, IONESCU, P. 36) s. m.",
+            "creier2 (element conducator, persoana) s. n., pl. creiere",
+            "creier1 (organ) s. m., pl. creieri",
+            "creier (anat.) s. m., pl. creieri",
+            "creier (persoana, element conducator) s. n., pl. creiere",
+            "CREIER s. (ANAT.) 1. (impr.) encefal. 2. creierul mic v. cerebel.",
+            "CREIER s. v. butuc, desteptaciune, intelect, inteligenta, judecata, minte, pricepere, ratiune, spirit.",
+            "creier (-ri), s. m. - 1. Organul gindirii si al constiintei la om, situat in cutia craniana. - 2. Minte, judecata. - 3. Cap, capetenie, sef. - 4. Butuc de roata. - 5. Zona interioara si putin accesibila a unei regiuni muntoase. - Mr. criel, crier, megl. criel. Lat. cerebrum, prin intermediul unei reduceri *crebrum (Candrea, Rom., XXXI, 306; Candrea, Elements, XVI; REW 1827; Philippide, II, 636; Pascu, Lat., 275; DAR); sau lat. c(e)rebellum (Puscariu, 413; Candrea-Dens., 406; Weigand, Wlacho-Meglen, 8). Ambele solutii par posibile, dar prezinta dificultati fonetice; s-a incercat de aceea odinioara sa se explice prin Hasdeu, Cuv. din Batrini, I, 274 sau prin alb. krielj (Baric, Albanorum. St., I, 81). Pentru valoarea lui c oclusiv inainte de un e primitiv, cf. cearcan. Graur, BL, III, 50, crede ca ee (> eie) a rezultat dintr-o brisure intre doi r, ca in greier sau prooroc; insa nu s-a demonstrat ca ee nu este etimologic. Cuvintul este de uz general (ALR, I, 13); sensul 5 are aspectul unei etimologii populare fara sa se poate indica punctul de provenienta. - Der. creerus, s. m. (cerebel); descreerat, adj. (nebun, smintit).",
+            "CREIER ~i m. 1) Organ central al sistemului nervos la om si la animale, aflat in cutia craniana; encefal. * ~ul mare parte a creierului care se afla in regiunea anterioara si superioara a craniului. ~ul mic parte a creierului care se afla in regiunea posterioara si inferioara a craniului; cerebel. A-si zbura (sau a-i zbura cuiva) ~ii a-si trage (sau a-i trage cuiva) un glonte in cap. 2) Facultatea de a gandi; minte; judecata; ratiune; intelect. 3) fig. Forta organizatorica si conducatoare a unei actiuni. 4): ~ii (sau ~ul) muntilor locurile centrale, inalte si greu accesibile ale muntilor. [Sil. cre-ier] /<lat. crebrum",
+            "creier m. 1. substanta nervoasa inchisa in cavitatea craniului; 2. fig. Spirit, inteligenta: creierii sai lucreaza; 3; infundatura adanca a unui munte: in creierii Carpatilor. [Lat. C(E)REBRUM].",
+            "creier m., uzitat si la pl., si n., pl. e cind e vorba de creier ca organ anatomic: doua creiere de gips (lat. cerebrum, crebrum, de unde s'a facut creur, apoi creier, dupa greier; it. cervello, pv. cervel, fr. cerveau d. lat. cerebellum. V. cerebel. Cp. cu ciur). Substanta nervoasa din craniu. Fig. Spirit, minte. Creierii muntilor, partea de unde inceteaza vegetatiunea si ramine stinca goala (ceia ce da impresiunea c'ai ajuns in craniu muntilor), coclauri, locuri neumblate pin munti. A-ti zbura creierii (d. fr. se bruler la cervelle), a te impusca in cap. - In Banat criel.",
+            "clii smp vz creier",
+            "CRIER s. m. v. creier.",
+            "CRIER s. m. v. creier.",
+            "CRIER s. m. v. creier.",
+            "criel si crier, V. creier.",
+            "CREIER s. (ANAT.) 1. (impr.) encefal. 2. creierul mic = cerebel, (pop.) creieras, (reg.) creierus.",
+            "creier s. v. BUTUC. DESTEPTACIUNE. INTELECT. INTELIGENTA. JUDECATA. MINTE. PRICEPERE. RATIUNE. SPIRIT."
+        ]
+    },
+    "Spatiu:intracranian": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Cutia:craniana"
+            ],
+            "can_be": [
+                "Creier",
+                "L.C.R",
+                "Sange"
+            ]
+        },
+        "id": "Spatiu:intracranian",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": []
+    },
+    "L.C.R": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Spatiu:intracranian"
+            ]
+        },
+        "id": "L.C.R",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": []
+    },
+    "radacinile:nervilor:cranieni": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Creier"
+            ]
+        },
+        "id": "radacinile:nervilor:cranieni",
+        "other": {},
+        "Sinomime": [],
+        "desc": "",
+        "Paronime": [],
+        "Definitii": []
+    },
+    "Sange": {
+        "name": "",
+        "relations": {
+            "is_a": [
+                "Spatiu:intracranian"
+            ],
+            "can_be": [
+                "Arterial",
+                "Venos"
+            ]
+        },
+        "id": "Sange",
+        "other": {},
+        "Sinomime": [
+            " rasa  ",
+            " familie",
+            " neam  ",
+            " viata  ",
+            " jertfa",
+            " sacrificiu  ",
+            "  musucel",
+            " putoi'",
+            " 'SANGE MOHORAT   antrax",
+            " carbune",
+            " dalac",
+            " pustula maligna'",
+            " 'SANGE RECE   calm",
+            " cumpat",
+            " fire",
+            " stapanire'",
+            " 'SANGELE-VOINICULUI   oresnita'",
+            " 'SCUIPARE DE SANGE   hemoptizie"
+        ],
+        "desc": "",
+        "Paronime": [
+            "stinge",
+            "Cange",
+            "sanie"
+        ],
+        "Definitii": [
+            "SANGE, (5) sangiuri, s. n. 1. Substanta lichida de culoare rosie, compusa din plasma si din globule (albe si rosii), care circula prin vene si artere, asigurand nutritia si oxigenarea organismului la animalele superioare.  Animal cu sange rece = animal (peste, reptila, batracian si nevertebrat) la care temperatura corpului se schimba in functie de temperatura mediului inconjurator. Frate de sange = frate de la acelasi tata si de la aceeasi mama; frate bun. Legaturi de sange = rudenie. Glasul sangelui = inclinare fireasca (si instinctiva) de dragoste pentru familie, pentru o ruda apropiata. * Loc. adj. De sange = a) de culoare rosie; b) (despre lacrimi) de durere, de suparare mare; c) de neam, de familie buna, aleasa. In sange = (despre fripturi) care a ramas putin crud, care isi pastreaza inca sangele. * Loc. adj. si adv. Cu sange rece = fara emotie; calm, linistit. Cu sange iute = fara stapanire, impulsiv. Cu (sau de) sange albastru = de neam mare, ales; nobil. * Loc. adv. La sange = extrem de aspru, de drastic; pana la distrugere. * Expr. A scuipa (cu) sange = a avea hemoptizie. A lasa (sau a lua) cuiva sange = a scoate cuiva o cantitate de sange (in scop terapeutic). A da sange = a lasa sa i se scoata o cantitate de sange (in mod terapeutic sau pentru a fi folosit in transfuzii). A avea sange in vine = a fi energic. A i se urca (sau a-i navali, a i se sui, a-i da etc.) (cuiva) sangele in obraz (sau la cap, in fata) = a) a se inrosi din cauza unei emotii puternice sau din cauza unei boli etc.; b) a se infuria. A nu mai avea (nici )o picatura de sange in obraz = a fi palid din cauza bolii; a pali de emotie, de frica etc. A-i ingheta (cuiva) sangele in vine sau a ingheta sangele (in cineva) = a se speria, a fi cuprins de groaza, a inlemni de spaima. A fierbe (sau a clocoti) sangele (in cineva) = a se infierbanta din cauza maniei, a supararii etc. A-si face (sau a-i face cuiva) sange rau = a (se) supara foarte tare, a (se) enerva. A nu curge (sau a nu iesi) sange din inima (sau din cineva), se spune pentru a arata ca cineva este foarte suparat. A avea (ceva) in sange = a fi obisnuit cu ceva; a avea ceva innascut. A bate (sau a zgaria) pana la sange = a bate (sau a zgaria) tare (pana cand curge sange). A umple de sange = a bate foarte tare, crunt. A suge sangele cuiva = a chinui, a oprima; a exploata. Sange nevinovat, se spune despre cel ucis fara nicio vina. Varsare de sange = omor in masa, macel. A varsa sange = a omori. A fi setos (sau dornic, iubitor) de sange sau a fi omul sangelui = a fi crud, a fi ucigas. A se scalda in sange sau a se adapa cu sange = a omori (in masa) din cruzime. A avea mainile patate de sange = a fi vinovat de o crima. A face sa curga sange = a fi pricina unui razboi, a unei incaierari sangeroase. A-si da (sau a-si varsa) sangele (pentru cineva sau ceva) = a suferi sau a-si da viata (pentru cineva sau ceva). 2. Fig. Obarsie; p. ext. familie, neam; progenitura. 3. Fig. Soi, rasa (de animale). 4. Compuse: sange-de-noua-frati sau sangele-dracului, sangele-zmeului = produs vegetal rasinos, de culoare rosie, recoltat din fructele unui arbore din familia palmierilor si care, arzand, raspandeste un miros placut; sangele-voinicului = a) planta agatatoare din familia leguminoaselor, cu flori rosii, violete sau albe (Lathyrus adoratus); b) numele a doua specii de plante erbacee de munte din familia orhideelor, cu frunze inguste, alungite, indreptate in sus, cu miros placut de vanilie, dintre care una cu flori mici de culoare rosie- purpurie (Nigritella rubra), iar cealalta cu flori de culoare purpuriu-intunecat (Nigritella nigra). 5. (inv.; la pl.) Omoruri, crime. 6. (Pop.) Nume dat unei boli a vitelor (care le face sa sangereze). - Lat. sanguis.",
+            "SANGE, (5) sangiuri, s. n. 1. Substanta lichida de culoare rosie, compusa din plasma si din globule (albe si rosii), care circula prin vine si artere, asigurand nutritia si oxigenarea organismului la animalele superioare. * Animal cu sange rece = animal (peste, reptila, batracian si nevertebrat) la care temperatura corpului se schimba in functie de temperatura mediului inconjurator. Frate de sange = frate de la acelasi tata si de la aceeasi mama; frate bun. Legaturi de sange = rudenie. Glasul sangelui = inclinare fireasca (si instinctiva) de dragoste pentru familie, pentru o ruda apropiata. * Loc. adj. De sange = a) de culoare rosie; b) (despre lacrimi) de durere, de suparare mare; c) de neam, de familie buna, aleasa. In sange = (despre fripturi) care a ramas putin crud, care isi pastreaza inca sangele. * Loc. adj. si adv. Cu sange rece = fara emotie; calm, linistit. Cu sange iute = fara stapanire, impulsiv. Cu (sau de) sange albastru = de neam mare, ales; nobil. * Loc. adv. La sange = extrem de aspru, de drastic; pana la distrugere. * Expr. A scuipa (cu) sange = a avea hemoptizie. A lasa (sau a lua) cuiva sange = a scoate cuiva o cantitate de sange (in scop terapeutic). A da sange = a lasa sa i se scoata o cantitate de sange (in mod terapeutic sau pentru a fi folosit in transfuzii). A avea sange in vine = a fi energic. A i se urca (sau a-i navali, a i se sui, a-i da etc.) (cuiva) sangele in obraz (sau la cap, in fata) = a) a se inrosi din cauza unei emotii puternice sau din cauza unei boli etc.; b) a se infuria. A nu mai avea (nici) o picatura de sange in obraz = a fi palid din cauza bolii; a pali de emotie, de frica etc. A-i ingheta (cuiva) sangele in vine sau a ingheta sangele (in cineva) = a se speria, a fi cuprins de groaza, a inlemni de spaima. A fierbe (sau a clocoti) sangele (in cineva) = a se infierbanta din cauza maniei, a supararii etc. A-si face (sau a-i face cuiva) sange rau = a (se) supara foarte tare, a (se) enerva. A nu curge (sau a nu iesi) sange din inima (sau din cineva), se spune pentru a arata ca cineva este foarte suparat. A avea (ceva) in sange = a fi obisnuit cu ceva; a avea ceva innascut. A bate (sau a zgaria) pana la sange = a bate (sau a zgaria) tare (pana cand curge sange). A umple de sange = a bate foarte tare, crunt. A suge sangele cuiva = a chinui, a oprima; a exploata. Sange nevinovat, se spune despre cel ucis fara nici o vina. Varsare de sange = omor in masa, macel. A varsa sange = a omori. A fi setos (sau dornic, iubitor) de sange sau a fi omul sangelui = a fi crud, a fi ucigas. A se scalda in sange sau a se adapa cu sange = a omori (in masa) din cruzime. A avea mainile patate de sange = a fi vinovat de o crima. A face sa curga sange = a fi pricina unui razboi, a unei incaierari sangeroase. A-si da (sau a-si varsa) sangele (pentru cineva sau ceva) = a suferi sau a-si da viata (pentru cineva sau ceva). 2. Fig. Obarsie; p. ext. familie, neam; progenitura 3. Fig. Soi, rasa (de animale). 4. Compuse: sange-de-noua-frati sau sangele dracului, sangele-zmeului = produs vegetal rasinos, de culoare rosie, recoltat din fructele unui arbore din familia palmierilor si care, arzand, raspandeste un miros placut; sangele-voinicului = a) planta agatatoare din familia leguminoaselor, cu flori rosii, violete sau albe (Lathyrus odoratus); b) numele a doua specii de plante erbacee de munte din familia orhideelor, cu frunze inguste, alungite, indreptate in sus, cu miros placut de vanilie, dintre care una cu flori mici de culoare rosie-purpurie (Nigritella rubra), iar cealalta cu flori de culoare purpurie intunecata (Nigritella nigra). 5. (Inv.; la pl.) Omoruri, crime. 6. (Pop.) Nume dat unei boli a vitelor (care le face sa sangereze). - Lat. sanguis.",
+            "SINGE, (rar) singiuri, s. n. 1. Substanta lichida, de culoare rosie, compusa din plasma si globule (albe si rosii), care circula prin artere si vine, asigurind nutritia si oxigenarea organismului la animalele superioare. In invalmaseala din ce in ce mai strinsa, singele curgea ca o ploaie; in curind se prefacu in balti care sclipeau ca rubinuri mari in lumina soarelui. SADOVEANU, O. VII 12. Vardaru observa ca, atunci cind roseste, obrazul lui Comsa e mai respingator: cicatricele ramin palide, fiindca dedesubt nu mai circula singele. C. PETRESCU, I II 85. Atunci singele cerbului odata a si inceput a curge gilgiind si a se raspindi in toate partile. CREANGA, P. 226. * Singe rosu (sau arterial) = singele din artere incarcat cu oxigen. Singe negru (sau venos) = singele din vine incarcat cu bioxid de carbon. Circulatia singelui = miscarea singelui in vine si artere. Pierdere (sau scurgere) de singe = hemoragie. Donator de singe v. donator. (Impropriu) Animale cu singe rece = animale (pesti, reptile, batracieni si nevertebrate) la care temperatura corpului se schimba in functie de temperatura mediului inconjurator. * Loc. adj. De singe = de culoare rosie. Vazind inainte-i picla de singe s-a rapezit acasa s-a izbit cu umaru-n usa. SADOVEANU, O. A. IV 72. (Despre carnuri fripte) In singe = care a ramas putin crud si isi pastreaza singele. * Loc. adv. Cu lacrimi de singe v. lacrima. * Expr. A scuipa (cu) singe = a avea hemoptizie. A-i lua (sau a-i lasa) (cuiva) singe v. lasa (1). Ca doara n-o pica (sau curge) singe = nu e mare paguba. * Compuse: singe-de-noua-frati (sau singele-dracului sau singele-zmeului) = rasina de culoare rosie, recoltata din fructele unui arbore din familia palmierilor si care, arzind, raspindeste un miros placut; singele-voinicului = planta agatatoare din familia leguminoaselor, cu flori mari, rosii, violete sau albe, care se cultiva prin parcuri si gradini (Lathyrus odoratus). Ma gindesc c-ar fi bine s-adun flori. Imi umplu buzunarul cu maci, maci multi, cu singele-voinicului si albastrele. SAHIA, N. 24; (cu aluzie la un simbol din mistica crestina) singele-domnului = vin. De-abia m-oi mai incalzi oleaca bind singele-domnului. CREANGA, P. 258. Sateanul de munte numai rar... cinsteste singele-domnului. SEZ. I 39; (familiar) singe-de-pruna = tuica. 2. (Metaforic, in locutiuni si expresii in legatura cu anumite stari afective, cu temperamentul, cu caracterul omului) * Loc. adj. si adv. Cu singe rece v. rece. Cu singe iute = fara stapinire; impulsiv, pornit spre minie. * Expr. A-si pastra singele rece v. pastra. A avea singe in vine = a fi energic. A i se urca (sau a i se sui, a-i navali, a-i da etc.) singele la cap (in fata sau in obraz) = a) a se inrosi din cauza unei emotii puternice. Singele ii navali in fata si inima-i bufnea cu graba in cosul pieptului. SADOVEANU, O. VII 91. Si atunci de sfiiciune mi-iese singele-n obraz, Cum nu vine zburatorul ca la pieptul lui sa caz? EMINESCU, O. I 80; b) a se infuria. Se incrunta si tot singele ii navaleste in fata. SAHIA, N. 53. Si-a prins-o tremurul de ciuda, Si simtea suindu-i singele-n obraz. COSBUC, P. I 252. A nu mai avea o picatura de singe in obraz = a pali, a se face alb la fata (de emotie). Cred ca n-am mai avut o picatura de singe in obraz. CAMIL PETRESCU, U. N. 229. A-i ingheta (cuiva) singele in vine sau a ingheta singele in cineva = a se speria, a fi cuprins de groaza, a inlemni de spaima. A fierbe (sau a clocoti) singele in cineva = a se infierbinta din cauza miniei, supararii etc. Simtea ca incepe sa-i clocoteasca singele. REBREANU, I. 81. A-si face (sau a-i face cuiva) singe rau, a-si pune (sau a pune cuiva) singe rau la inima = a (se) supara foarte tare, a (se) enerva (sau a enerva pe cineva). Nu-ti mai face atita singe rau. DUMITRU, N. 115. Ca sa-i puie singe rau la inima... au inceput a porecli pe mos Nichifor si a-i zice: Nichifor Cotcariul... CREANGA, P. 136. Oleu, soro, ce-ti mai faci indata singe rau? CONTEMPORANUL, VI 99. De m-ai taia (sau de ai taia etc.) n-ar curge (o picatura de) singe, se spune pentru a exprima in chip hiperbolic starea de adinca deprimare a cuiva. Saraca inima mea, C-un cutit de-o ai taia N-ar curge singe din ea. JARNIK-BIRSEANU, D. 189. 3. (Metaforic, exprima ideea de obirsie, p. ext. de progenitura, familie, neam) O muma iubeste fiul, caci este al ei singe, Caci l-a purtat in sinu-i, caci este viata sa. BOLINTINEANU, O. 202. Cu soldati alesi, pe care cred a-i aduce lesne ca sa apere singele si patria lor, voi apara natia mea pina la cel din urma suspin. BILCESCU, O. II 302. * Legaturi de singe = legaturi de rudenie (apropiata). Frate de singe = frate de la acelasi tata si de la aceeasi mama. Glasul singelui = inclinare fireasca de dragoste pentru familie. * Loc. adj. De singe = de neam, de familie. Murise vecinul si lasase de mostenire fiilor si nepotilor ura si vrajba de singe. EMINESCU, N. 3. Cu (sau de) singe albastru = de neam mare, ales, de familie buna. Ei vor sa reprezinte traditia, nobletea de singe albastru, vechimea de clasa sau de familie. RALEA, O. 67. * Expr. Singele apa nu se face = legaturile de rudenie nu se uita. Nevasta celui bogat de multe ori facea zile fripte barbatului, ca sa-l poata descotorosi odata de frate-sau... - Apoi da, mai nevasta, singele apa nu se face. Daca nu l-oi ajuta eu, cine sa-l ajute? CREANGA, P. 38. Desi singele apa nu se face si camesa e mai aproape decit anteriul, dar nepotul e salba-dracului. NEGRUZZI, S. I 249. A fi de acelasi singe cu cineva (sau a fi singele cuiva) = a fi ruda cu cineva, din aceeasi familie cu cineva. A avea (ceva) in singe = a fi obisnuit (cu ceva); a avea (ceva) innascut. A-i intra (cuiva) in singe v. intra (II 2).  Soi, rasa (la animale). Cal de singe arab. La CADE. 4. (Metaforic, mai ales in locutiuni si expresii, exprima ideea de violenta, cruzime, asuprire, exploatare) (Loc. adv.) La singe = drastic, pina la distrugere. Pina la singe = pina tisneste singele. Am gasit intr-o saica pe mosneag legat. Si-n cealalta saica, pe jupin Costea, strins in funii pina la singe, cu calus de rasina-n gura. SADOVEANU, O. A. IV 67. * Expr. A umple de singe = a bate foarte tare, crunt. Odata, la o nunta il umpluse de singe. REBREANU, I. 21. A suge singele cuiva = a chinui, a oprima; a exploata. Dumneata sugi singele poporului!... CARAGIALE, O. I 102.  (Exprima ideea de omor, crima, p. ext. de lupta singeroasa, razboi) Pe sceptre si steme si tronuri sfarmate, Trufasa tu calca, si mindra te-ndreapta Spre tarmuri de singe si plins neudate, Spre tarmuri pe care divina dreptate De veacuri te-asteapta. NECULUTA, T. D. 40. * Expr. Singe nevinovat, se spune despre cel ucis fara nici o vina. Varsare de singe (rar de singiuri) = ucidere in masa, macel. Dreptati agonisite cu multe si mari varsari de singiuri. PISCUPESCU, O. 15. A varsa singe = a omori. Imparatul Ros avind inima haina, nu se mai satura de a varsa singe omenesc. CREANGA, P. 232. M-am aratat cumplit, rau, varsind singele multora. NEGRUZZI, S. I 149. A se scalda in singe sau a se adapa cu singe = a omori (in masa) din cruzime. A fi omul singelui sau a fi iubitor (sau dornic, setos) de singe = a fi crud, ucigas. A face sa curga singe = a fi pricina unui razboi, a unei incaierari singeroase. A avea (sau a fi cu) miinile patate de singe = a fi vinovat de o crima. A-si baga mina in singe v. baga (I 1). A primi botezul de singe = a intra pentru prima data in lupta (la razboi).  (Exprima ideea de efort, de jertfa, de sacrificiu) Eu am luat-o fara drum in sus, Am marturie urmele-mi de singe, Mai urc, si-mi vine citeodata-a plinge, Dar singur duc ce-mi este dat de dus. BENIUC, V. 7. * Expr. A-si da (sau a-si varsa) singele pentru cineva sau ceva = a se jertfi; a suferi sau a-si da viata pentru cineva sau ceva. 5. (Invechit, la pl.) Singe (1) varsat prin cruzime, prin omor; p. ext. omoruri, crime. Imi pare ca ma aflu in locuint-adinca A unei groazneci iezme, ce singiuri o hranesc. ALEXANDRESCU, M. 94. Ii spala zabunele Si-i curata armele... De siropuri ieniceresti Si de singiuri paginesti. TEODORESCU, P. P. 574. * Omul singiurilor = calau, gide. Fiori de groaza coprinsera atunci pe omul singiurilor, si... arunca jos securea. ISPIRESCU, M. V. 8. Oamenii singiurilor = tiranii, asupritorii. Cu toate aceste temeiuri de descurajare, sufletu-mi te slaveste inca, inzeita libertate, si desi oamenii singiurilor au invelit cu marama neagra dulce fata ta, crede ca va veni ziua fericita, ziua izbindirii. BALCESCU, la ODOBESCU, S. III 495. Orasele s-au intemeiat din nou... copiii robiti intorsu-s-au iarasi.... dar oamenii singiurilor nu-ti detera inapoi volnicia... pamint al grelelor dureri! si copiilor tai le-a ramas robia. RUSSO, O. 42. 6. (Popular) Nume dat unei boli a vitelor. Vitele tragace... se bolnavesc de singe. SEZ. III 147. Cind vita e bolnava greu de singe, poti sa-i tai virful urechilor... si, curgind singe, vita scapa. ib. 147.",
+            "sange s. n.",
+            "*sange rece s. n. + adj.",
+            "sange-de-noua-frati (planta, rasina) s. m.",
+            "sange-rece (calm) s. n. (dar: sangele lui rece)",
+            "!sangele-voinicului (planta) s. m. art.",
+            "sange s. n.",
+            "sange-de-noua-frati s. m.",
+            "sange-rece s. n.",
+            "sangele-voinicului (bot.) s. m.",
+            "SANGE s. 1. rasa. (Cal de ~ arab.) 2. familie, neam. (E din ~le nostru.) 3. viata. (Si-a dat ~le pentru patrie.) 4. jertfa, sacrificiu. (Si-au dobandit libertatea prin ~.) 5. (BOT.) sangele-voinicului = a) (Lathyrus odoratus) indrusaim, (reg.) haragica, mazarata, mazarean, mazarica, mazariche, mazaroi, mazaruica, oresnita, pejma, floare-de-mazare; b) (Nigritella rubra) (reg.) musucel; c) (Nigritella nigra) (reg.) musucel, putoi.",
+            "SANGE MOHORAT s. v. antrax, carbune, dalac, pustula maligna.",
+            "SANGE RECE s. v. calm, cumpat, fire, stapanire.",
+            "SANGELE-VOINICULUI s. v. oresnita.",
+            "SCUIPARE DE SANGE s. v. hemoptizie.",
+            "singe s. m. - 1. Substanta lichida rosie din vene si artere. - 2. Obirsie. - Singe amestecat, inv. (incest). - Mr. sindze, megl. sondz, istr. sanje. Lat. sanguis, *sanguem, in loc de sanguinem (Puscariu 193; REW 7574), cf. it., port. sangue, prov., cat. sanc, fr. sang, sp. sangre. - Der. singera (var. insingera), vb. (a pierde singe; a umple de singe; a se chinui, a suferi), mr. sindzinedz, sindzirare, megl. sondriz(ari), din lat. sanguinare (Puscariu 1593; REW 7571); singer (var. singerel, Mold. singinel), s. m. (arbust cu ramuri rosii, Cornus sanguinea), postverbal de la singera (dupa Candrea, din lat. sanguineus); singerarita, s. f. (planta nedeterminata, care se presupune ca vindeca ranile); singerat, s. n. (boala la animale); singeratic, adj. (singeros); singeratura, s. f. (boala la animale); singerete, s. m. (cirnat cu singe); singeriu, adj. (de culoarea singelui); singerie, s. f. (planta, Sanguisorba officinalis); singeros (var. Mold. singios), adj. (crud, fioros; cu mult singe; de culoarea singelui); singeroasa, s. f. (planta, Hieracium aurantiacum); singerica (var. singeric, din greseala sincerica), s. f. (sorbestres, Sanguisorba officinalis); singerosie, s. f. (sete de singe); singerind, adj. (formatie literara artificiala dupa fr. sanglant); consingen, s. m. (consangvin); sanguin, adj., din fr. sanguin; sanguina, s. f., din fr. sanguine.",
+            "SANGE n. 1) Lichid care circula prin vasele sangvine ale organismului, asigurand activitatea vitala a tesuturilor. * Lacrimi de ~ lacrimi de mare suferinta. A varsa ~ a ucide; a omori. Cu ~ rece cu stapanire de sine; fara emotii. A-si pastra ~le rece a-si pastra calmul. A-i ingheta cuiva ~le in vine (sau a ingheta ~le in cineva) a se speria foarte tare. A fierbe (sau a clocoti) ~le in cineva a fi stapanit de manie. A-si face (sau a-i face cuiva) ~ rau a se amari sau a amari pe cineva foarte tare. A nu avea (nici o) picatura de ~ in obraz a fi foarte palid la fata. A-i intra cuiva in ~ a se transforma in obisnuinta; a deveni obicei. A suge ~le cuiva a exploata crunt pe cineva; a chinui. A avea mainile patate de ~ a purta vina unui omor. A face sa curga ~ a provoca un macel, o varsare de sange. A dona ~ a oferi o cantitate de sange pentru transfuzii; a fi donator. 2) fig. Neam din care se trage cineva; os. * Rudenie de ~ rudenie pe linie directa (intre parinti si copii, frati si surori). Frate de ~ frate de la aceiasi parinti; frate bun. A fi de acelasi ~ cu cineva a fi ruda cu cineva; a fi din aceeasi familie cu cineva. 3): ~le-voinicului a) planta erbacee cu tulpina culcata si cu frunze alungite, cu flori rosii (uneori violete sau albe), dispuse in umbele si cu fructul pastaie; b) planta erbacee cu tulpina erecta, cu frunze liniare si cu flori purpurii, dispuse in inflorescente terminale, sub forma de spic. /<lat. sanguis",
+            "sange n. 1. lichid rosu ce circula in vinele si arterele omului si ale animalelor vertebrate; sange rece, liniste sufleteasca, prezenta de spirit; sange rau, necaz: a(-si) face sange rau; sangele Domnnlui, fam. vin: m'oiu incalzi o leaca band sangele Domnului CR.; 2. fig. vieata: a-si da sangele pentru patrie; 3. familie: principe de sange regal; 4. Sange-ros, geniu dusman omului (AL.); 5. pl. (arhaic si poetic) cruzime, macel: omul sangiurilor, tiran, calau; 6. nume de plante; sange de noua frati, product vegetal rasinos, de coloare rosie, cu miros balsamic (joaca un rol in medicina populara); sangele voinicului, V. indrusaim. [Lat. SANG(U)IS]."
+        ]
+    }
+}
