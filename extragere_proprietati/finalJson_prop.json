@@ -1,0 +1,72 @@
+{ 
+"Arterial" :{ 
+"id" : "Arterial",  
+"nume" : "is_a",  
+"parinte" : "Sange" 
+ } ,
+"Glanda:epifiza" :{ 
+"id" : "Glanda:epifiza",  
+"nume" : "is_a",  
+"parinte" : "Creier" 
+ } ,
+"Glie" :{ 
+"id" : "Glie",  
+"nume" : "is_a",  
+"parinte" : "Creier" 
+ } ,
+"Cutia:craniana" :{ 
+"id" : "Cutia:craniana",  
+"nume" : "is_a",  
+"parinte" : null 
+ } ,
+"Venos" :{ 
+"id" : "Venos",  
+"nume" : "is_a",  
+"parinte" : "Sange" 
+ } ,
+"Peretii:vaselor:sanguine" :{ 
+"id" : "Peretii:vaselor:sanguine",  
+"nume" : "is_a",  
+"parinte" : "Creier" 
+ } ,
+"L.I." :{ 
+"id" : "L.I.",  
+"nume" : "is_a",  
+"parinte" : "Creier" 
+ } ,
+"meninge" :{ 
+"id" : "meninge",  
+"nume" : "is_a",  
+"parinte" : "Creier" 
+ } ,
+"Neuroni" :{ 
+"id" : "Neuroni",  
+"nume" : "is_a",  
+"parinte" : "Creier" 
+ } ,
+"Creier" :{ 
+"id" : "Creier",  
+"nume" : "is_a",  
+"parinte" : "Spatiu:intracranian" 
+ } ,
+"Spatiu:intracranian" :{ 
+"id" : "Spatiu:intracranian",  
+"nume" : "is_a",  
+"parinte" : "Cutia:craniana" 
+ } ,
+"L.C.R" :{ 
+"id" : "L.C.R",  
+"nume" : "is_a",  
+"parinte" : "Spatiu:intracranian" 
+ } ,
+"radacinile:nervilor:cranieni" :{ 
+"id" : "radacinile:nervilor:cranieni",  
+"nume" : "is_a",  
+"parinte" : "Creier" 
+ } ,
+"Sange" :{ 
+"id" : "Sange",  
+"nume" : "is_a",  
+"parinte" : "Spatiu:intracranian" 
+ }
+} 
